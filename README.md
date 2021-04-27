@@ -1,1 +1,1 @@
-# support_vector_machine
+# Tutorials for Support Vector Machine
